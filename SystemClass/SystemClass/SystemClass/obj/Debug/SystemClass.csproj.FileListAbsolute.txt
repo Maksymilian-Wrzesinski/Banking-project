@@ -1,0 +1,8 @@
+C:\Users\andre\Documents\CSHARP\SystemClass\SystemClass\SystemClass\bin\Debug\SystemClass.exe.config
+C:\Users\andre\Documents\CSHARP\SystemClass\SystemClass\SystemClass\bin\Debug\SystemClass.exe
+C:\Users\andre\Documents\CSHARP\SystemClass\SystemClass\SystemClass\bin\Debug\SystemClass.pdb
+C:\Users\andre\Documents\CSHARP\SystemClass\SystemClass\SystemClass\obj\Debug\SystemClass.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CSHARP\SystemClass\SystemClass\SystemClass\obj\Debug\SystemClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Documents\CSHARP\SystemClass\SystemClass\SystemClass\obj\Debug\SystemClass.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CSHARP\SystemClass\SystemClass\SystemClass\obj\Debug\SystemClass.exe
+C:\Users\andre\Documents\CSHARP\SystemClass\SystemClass\SystemClass\obj\Debug\SystemClass.pdb

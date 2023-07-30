@@ -1,0 +1,8 @@
+C:\Users\andre\Documents\CSHARP\SystemClass\Testy\Testy\bin\Debug\Testy.exe.config
+C:\Users\andre\Documents\CSHARP\SystemClass\Testy\Testy\bin\Debug\Testy.exe
+C:\Users\andre\Documents\CSHARP\SystemClass\Testy\Testy\bin\Debug\Testy.pdb
+C:\Users\andre\Documents\CSHARP\SystemClass\Testy\Testy\obj\Debug\Testy.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CSHARP\SystemClass\Testy\Testy\obj\Debug\Testy.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Documents\CSHARP\SystemClass\Testy\Testy\obj\Debug\Testy.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CSHARP\SystemClass\Testy\Testy\obj\Debug\Testy.exe
+C:\Users\andre\Documents\CSHARP\SystemClass\Testy\Testy\obj\Debug\Testy.pdb

@@ -1,0 +1,8 @@
+C:\Users\andre\Documents\CSHARP\SystemClass\HeightIf\HeightIf\obj\Debug\HeightIf.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CSHARP\SystemClass\HeightIf\HeightIf\obj\Debug\HeightIf.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Documents\CSHARP\SystemClass\HeightIf\HeightIf\obj\Debug\HeightIf.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CSHARP\SystemClass\HeightIf\HeightIf\bin\Debug\HeightIf.exe.config
+C:\Users\andre\Documents\CSHARP\SystemClass\HeightIf\HeightIf\bin\Debug\HeightIf.exe
+C:\Users\andre\Documents\CSHARP\SystemClass\HeightIf\HeightIf\bin\Debug\HeightIf.pdb
+C:\Users\andre\Documents\CSHARP\SystemClass\HeightIf\HeightIf\obj\Debug\HeightIf.exe
+C:\Users\andre\Documents\CSHARP\SystemClass\HeightIf\HeightIf\obj\Debug\HeightIf.pdb

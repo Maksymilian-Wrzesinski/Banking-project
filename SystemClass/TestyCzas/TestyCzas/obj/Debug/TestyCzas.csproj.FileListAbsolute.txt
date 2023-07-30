@@ -1,0 +1,8 @@
+C:\Users\andre\Documents\CSHARP\SystemClass\TestyCzas\TestyCzas\bin\Debug\TestyCzas.exe.config
+C:\Users\andre\Documents\CSHARP\SystemClass\TestyCzas\TestyCzas\bin\Debug\TestyCzas.exe
+C:\Users\andre\Documents\CSHARP\SystemClass\TestyCzas\TestyCzas\bin\Debug\TestyCzas.pdb
+C:\Users\andre\Documents\CSHARP\SystemClass\TestyCzas\TestyCzas\obj\Debug\TestyCzas.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CSHARP\SystemClass\TestyCzas\TestyCzas\obj\Debug\TestyCzas.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Documents\CSHARP\SystemClass\TestyCzas\TestyCzas\obj\Debug\TestyCzas.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CSHARP\SystemClass\TestyCzas\TestyCzas\obj\Debug\TestyCzas.exe
+C:\Users\andre\Documents\CSHARP\SystemClass\TestyCzas\TestyCzas\obj\Debug\TestyCzas.pdb

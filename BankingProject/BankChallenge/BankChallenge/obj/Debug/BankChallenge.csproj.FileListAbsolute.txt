@@ -1,0 +1,11 @@
+C:\Users\andre\Documents\CSHARP\BankingProject\BankChallenge\BankChallenge\obj\Debug\BankChallenge.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CSHARP\BankingProject\BankChallenge\BankChallenge\obj\Debug\BankChallenge.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Documents\CSHARP\BankingProject\BankChallenge\BankChallenge\obj\Debug\BankChallenge.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CSHARP\BankingProject\BankChallenge\BankChallenge\bin\Debug\BankChallenge.exe.config
+C:\Users\andre\Documents\CSHARP\BankingProject\BankChallenge\BankChallenge\bin\Debug\BankChallenge.exe
+C:\Users\andre\Documents\CSHARP\BankingProject\BankChallenge\BankChallenge\bin\Debug\BankChallenge.pdb
+C:\Users\andre\Documents\CSHARP\BankingProject\BankChallenge\BankChallenge\bin\Debug\Employee.dll
+C:\Users\andre\Documents\CSHARP\BankingProject\BankChallenge\BankChallenge\bin\Debug\Employee.pdb
+C:\Users\andre\Documents\CSHARP\BankingProject\BankChallenge\BankChallenge\obj\Debug\BankChallenge.csproj.CopyComplete
+C:\Users\andre\Documents\CSHARP\BankingProject\BankChallenge\BankChallenge\obj\Debug\BankChallenge.exe
+C:\Users\andre\Documents\CSHARP\BankingProject\BankChallenge\BankChallenge\obj\Debug\BankChallenge.pdb

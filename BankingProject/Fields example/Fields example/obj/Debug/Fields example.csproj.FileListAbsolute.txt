@@ -1,0 +1,11 @@
+C:\Users\andre\Documents\CSHARP\BankingProject\Fields example\Fields example\bin\Debug\Fields example.exe.config
+C:\Users\andre\Documents\CSHARP\BankingProject\Fields example\Fields example\bin\Debug\Fields example.exe
+C:\Users\andre\Documents\CSHARP\BankingProject\Fields example\Fields example\bin\Debug\Fields example.pdb
+C:\Users\andre\Documents\CSHARP\BankingProject\Fields example\Fields example\bin\Debug\ClassLibrary1.dll
+C:\Users\andre\Documents\CSHARP\BankingProject\Fields example\Fields example\bin\Debug\ClassLibrary1.pdb
+C:\Users\andre\Documents\CSHARP\BankingProject\Fields example\Fields example\obj\Debug\Fields example.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CSHARP\BankingProject\Fields example\Fields example\obj\Debug\Fields example.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Documents\CSHARP\BankingProject\Fields example\Fields example\obj\Debug\Fields example.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CSHARP\BankingProject\Fields example\Fields example\obj\Debug\Fields example.csproj.CopyComplete
+C:\Users\andre\Documents\CSHARP\BankingProject\Fields example\Fields example\obj\Debug\Fields example.exe
+C:\Users\andre\Documents\CSHARP\BankingProject\Fields example\Fields example\obj\Debug\Fields example.pdb

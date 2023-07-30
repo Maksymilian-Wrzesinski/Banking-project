@@ -1,0 +1,6 @@
+C:\Users\andre\Documents\CSHARP\BankingProject\BankChallenge\Employee\bin\Debug\Employee.dll
+C:\Users\andre\Documents\CSHARP\BankingProject\BankChallenge\Employee\bin\Debug\Employee.pdb
+C:\Users\andre\Documents\CSHARP\BankingProject\BankChallenge\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CSHARP\BankingProject\BankChallenge\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CSHARP\BankingProject\BankChallenge\Employee\obj\Debug\Employee.dll
+C:\Users\andre\Documents\CSHARP\BankingProject\BankChallenge\Employee\obj\Debug\Employee.pdb

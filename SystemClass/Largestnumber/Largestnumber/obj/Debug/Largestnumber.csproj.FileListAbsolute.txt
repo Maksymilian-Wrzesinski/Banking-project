@@ -1,0 +1,8 @@
+C:\Users\andre\Documents\CSHARP\SystemClass\Largestnumber\Largestnumber\bin\Debug\Largestnumber.exe.config
+C:\Users\andre\Documents\CSHARP\SystemClass\Largestnumber\Largestnumber\bin\Debug\Largestnumber.exe
+C:\Users\andre\Documents\CSHARP\SystemClass\Largestnumber\Largestnumber\bin\Debug\Largestnumber.pdb
+C:\Users\andre\Documents\CSHARP\SystemClass\Largestnumber\Largestnumber\obj\Debug\Largestnumber.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CSHARP\SystemClass\Largestnumber\Largestnumber\obj\Debug\Largestnumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Documents\CSHARP\SystemClass\Largestnumber\Largestnumber\obj\Debug\Largestnumber.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CSHARP\SystemClass\Largestnumber\Largestnumber\obj\Debug\Largestnumber.exe
+C:\Users\andre\Documents\CSHARP\SystemClass\Largestnumber\Largestnumber\obj\Debug\Largestnumber.pdb
